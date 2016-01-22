@@ -1,4 +1,4 @@
-# Work In Progress!
+# Work in progress! Not fully thought out!
 
 ## Quick introduction
 
@@ -30,7 +30,7 @@ def is_list_of_points(pts):
 
 The "shape definition" `[(Number, Number)]` quite literally reads "a list of two-tuples that contain numbers".
 
-Notice how that shape is the very first argument? That was done on purpose, so that fans of `functools` could easily use it with `partial`:
+Notice how the shape definition is the very first argument? It goes great with `partial`:
 ```python
 from functools import partial
 
