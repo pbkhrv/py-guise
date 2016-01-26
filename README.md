@@ -92,6 +92,7 @@ Guise allows you to apply a shape definition to objects in different ways:
 - add field extraction from dicts to guise
 - extract namedtuple from dict/tuple using guise
 - Something sorta kinda similar in Clojure called seqex https://github.com/jclaggett/seqex
+- Something *very* similar in Clojure(Script) called Schema https://github.com/plumatic/schema
 - voluptuous https://pypi.python.org/pypi/voluptuous/
 - colander http://docs.pylonsproject.org/projects/colander/en/latest/
 - https://pypi.python.org/pypi?%3Aaction=search&term=schema&submit=search
