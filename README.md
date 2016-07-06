@@ -97,3 +97,4 @@ Guise allows you to apply a shape definition to objects in different ways:
 - voluptuous https://pypi.python.org/pypi/voluptuous/
 - colander http://docs.pylonsproject.org/projects/colander/en/latest/
 - https://pypi.python.org/pypi?%3Aaction=search&term=schema&submit=search
+- Clojure spec is awesome http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec
